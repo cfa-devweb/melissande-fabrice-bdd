@@ -5,17 +5,17 @@ Ce projet est dans le cadre d'une formation de Développement Web afin d'évalue
 Mise en place des modèles de conception de schéma de base de données d'une bibliothèque "library"
 
 #### Exportation du Modèle Logique de Données
-Une fois le MLD terminé, exporter en effectuant > File > Export > Forward Engineer SQL CREATE script..
+Une fois le MLD terminé, exporter en effectuant > File > Export > Forward Engineer SQL CREATE script..<br>
 --> Nommer le fichier SQL exporté "library.sql"
 
 ### MODULE SCRIPT
 #### Script de création de base de données
-Ce script est au format .batch et permet de lancer un script de création de base de données.
+Ce script est au format .batch et permet de lancer un script de création de base de données.<br>
 --> Nommé "creation.bat"
 #### Script d'insertion des données au format .csv dans la table "books" de la base "library"
-Ce script est au format .batch et permet de lancer un script d'insertion de données dans une table.
+Ce script est au format .batch et permet de lancer un script d'insertion de données dans une table.<br>
 --> Nommé "insertion.bat"
 #### Script de sauvegarde de base de données
-Ce script est au format .batch et permet de lancer un script de sauvegarde de base de données.
---> Nommé "save.bat"
+Ce script est au format .batch et permet de lancer un script de sauvegarde de base de données.<br>
+--> Nommé "save.bat"<br>
 --> le fichier "sauvegarde.sql" sera créé automatiquement et rendu disponible à l'utilisateur.
