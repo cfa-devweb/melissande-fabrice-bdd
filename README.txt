@@ -1,4 +1,4 @@
-# MODULE BASE DE DONNEES #
+<h1>MODULE BASE DE DONNEES</h1>
 Ce projet est dans le cadre d'une formation de Développement Web afin d'évaluer les compétences nécessaires sur la partie M5-S4 du Trello, "Mettre en place une base de données"
 
 #### Modélisation du projet sous formes : MCD, MPD, MLD
