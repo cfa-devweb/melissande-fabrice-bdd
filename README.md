@@ -48,4 +48,4 @@ Ce script est au format .batch et permet de lancer un script de sauvegarde de ba
 Afin d'effectuer une sauvegarde permanente de notre base de données, nous avons décidé de créer un script en utilisant la commande présente dans MySQL, 'mysqldump'.<br>
 Cela nous a permis de générer un fichier immédiat nommé "sauvegarde" et réutilisable, à tout moment, par l'utilisateur de la base de données.
 
-<em>Sources</em> : https://perso.imt-mines-albi.fr/~sellasel/Divers/memo_merise.pdf https://smarttechways.com/2018/05/01/load-file-to-table-with-sql-loader/ https://devstory.net/11591/batch-variable
+<em>Sources</em> :<br> https://perso.imt-mines-albi.fr/~sellasel/Divers/memo_merise.pdf<br> https://smarttechways.com/2018/05/01/load-file-to-table-with-sql-loader/<br> https://devstory.net/11591/batch-variable
